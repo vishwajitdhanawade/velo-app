@@ -4,7 +4,7 @@ pipeline {
 
            label {
                  label 'built-in'
-                  customWorkspace /mnt/vishwa
+                  customWorkspace '/mnt/vishwa'
                    
                  }
         }
