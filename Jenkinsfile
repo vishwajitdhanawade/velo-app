@@ -10,7 +10,7 @@ pipeline {
         }
        stages {
 
-                 stage (make dir) {
+                 stage ('make dir') {
 
                  steps {
                            sh "mkdir dir1"
