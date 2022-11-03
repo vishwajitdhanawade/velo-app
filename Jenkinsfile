@@ -14,7 +14,7 @@ pipeline {
 
                  steps {
                            sh "mkdir dir1"
-                           sh "touch file1"
+                           
                          }
 
 
