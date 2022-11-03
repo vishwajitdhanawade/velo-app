@@ -15,7 +15,7 @@ pipeline {
                  steps {
                            sh "rm -rf *"
                            sh "mkdir dir1"
-                           sh "sh touch file1"                           
+                           sh "touch file1"                           
                          }
 
 
