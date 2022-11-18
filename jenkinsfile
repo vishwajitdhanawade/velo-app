@@ -15,7 +15,7 @@ pipeline {
 				
 				     steps {
 					           sh "rm -rf *"
-				              sh "git clone https://github.com/vishwajitdhanawade/game-of-life.git"
+				              sh "git clone https://github.com/vishwajitdhanawade/velo-app.git"
 							  
 				               }
 							}
